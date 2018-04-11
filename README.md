@@ -16,3 +16,6 @@
 * Evaluating and imporoving your SQL queries
 * Working with NoSQL databases
 * Advanced uses of Redis and other caching tools
+
+## API Development
+* Handling complex RESTful queries

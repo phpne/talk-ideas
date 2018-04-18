@@ -1,13 +1,13 @@
-# PHP North East Talk Ideas
+# PHP North East talk ideas
 
 ## Laravel
-* Whats new in Laravel 5.6
-* Laravel Full text search
-* Getting Started with Laravel Socialite
-* Getting Started with Laravel Horizon
+* What’s new in Laravel 5.6
+* Laravel full-text search
+* Getting started with Laravel Socialite
+* Getting started with Laravel Horizon
 
 ## Security
-* OWASP Top 10
+* OWASP top 10
 
 ## Testing
 * Continuous Integration in 2018

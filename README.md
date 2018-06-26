@@ -10,7 +10,10 @@
 * OWASP top 10
 
 ## Testing
-* Continuous Integration in 2018
+~~* Continuous Integration in 2018~~
+* Unit testing best practices
+* End to end acceptance tests
+* Code quality metrics worth monitoring
 
 ## Databases
 * Evaluating and imporoving your SQL queries
@@ -20,3 +23,8 @@
 ## API Development
 * Handling complex RESTful queries
 * PHP and GraphQL
+
+## Other
+* Code quality metrics worth monitoring
+* Application performance monitoring
+* Stats, metrics, graphs, and more

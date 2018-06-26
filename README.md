@@ -10,7 +10,7 @@
 * OWASP top 10
 
 ## Testing
-~~* Continuous Integration in 2018~~
+* ~~Continuous Integration in 2018~~
 * Unit testing best practices
 * End to end acceptance tests
 * Code quality metrics worth monitoring

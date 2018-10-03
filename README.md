@@ -4,7 +4,7 @@
 * What’s new in Laravel 5.6
 * Laravel full-text search
 * Getting started with Laravel Socialite
-* Getting started with Laravel Horizon
+* ~~Getting started with Laravel Horizon~~
 
 ## Security
 * OWASP top 10

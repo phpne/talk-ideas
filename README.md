@@ -1,7 +1,7 @@
 # PHP North East talk ideas
 
 ## Laravel
-* What’s new in Laravel 5.6
+* What’s new in Laravel 5.7
 * Laravel full-text search
 * Getting started with Laravel Socialite
 * ~~Getting started with Laravel Horizon~~
